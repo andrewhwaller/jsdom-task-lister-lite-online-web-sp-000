@@ -4,6 +4,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function onSubmit(event) {
   event.preventDefault()
-  const newTask = document.querySelector('input').value
 
 }
